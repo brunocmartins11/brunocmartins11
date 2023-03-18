@@ -9,6 +9,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
+          
+## Tocando Agora 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075)
+<br/>
+          
+---
 ## Contatos:
 
 <div>
@@ -17,10 +24,6 @@
 <a href="https://www.linkedin.com/in/brunocmartins112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Tocando Agora 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075)
-<br/>
----
 ![Snake animation](https://github.com/brunocmartins11/brunocmartins11/blob/output/github-contribution-grid-snake.svg)
           
