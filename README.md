@@ -5,18 +5,19 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocmartins11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 --- 
-<br>
+<br/>
+          
 ## Estou Apredendo 📚
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 --- 
-<br>
+<br/>
           
 ## Tocando Agora 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075?si=2c8c984005564463)
 --- 
-<br>
+<br/>
 ## Contatos 📞
 
 <div>
