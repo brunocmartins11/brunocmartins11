@@ -12,7 +12,7 @@
           
 ## Tocando Agora 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075?si=2c8c984005564463))
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075?si=2c8c984005564463)
 <br/>
           
 ---
