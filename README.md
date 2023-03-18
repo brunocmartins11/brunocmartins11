@@ -1,4 +1,4 @@
-
+## Estatísticas 
 <div>
 <a href="https://github.com/brunocmartins11">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmartins11&layout=compact&langs_count=7&theme=dracula"/>
@@ -12,7 +12,7 @@
           
 ## Tocando Agora 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x0g5muowi0h2b6gchwarev075))
 <br/>
           
 ---
